@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HassanatC
-- 👀 I am interested in programming and web development, namely front-end web development.
+- 👀 I am interested in programming and web development, namely front-end development.
 - 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on a project after completing The Odin Project.
+- 💞️ I’m looking to collaborate on a project after completing The Odin Project's full-stack curriculum.
 
   
 <!---
