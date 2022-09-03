@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hassanat.
-- 👀 I am interested in programming and web development, namely front-end development.
-- 🌱 I’m currently learning JavaScript in greater depth.
-- 💞️ I’m looking to collaborate on a project after progressing through The Odin Project's full-stack JavaScript curriculum.
+- 👀 I am interested in programming and web development, and will be studying Computer Science at postgraduate level.
+- 🌱 I’m currently focused on learning Java and JavaScript in greater depth, and plan to start Helsinki's Full Stack Open course.
+- 💞️ I’m looking to collaborate on a project.. soon.
 
   
 <!---
