@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hassanat.
 - 👀 I am interested in programming and web development, and am studying Computer Science at the University of Birmingham.
-- 🌱 I’m currently focused on learning Java with the Helsinki MOOC and JavaScript in greater depth, and plan to start Helsinki's Full Stack Open course.
-- 💞️ I’m looking to collaborate on a project soon.
+- 🌱 I’m learning Java and am starting to learn Python
+- 💞️ I’m looking to work on a basic AI related project soon.
 
   
 <!---
