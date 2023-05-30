@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hassanat.
 - 👀 I am interested in programming and web development, and am studying Computer Science at the University of Birmingham.
-- 🌱 I’m learning Java and am starting to learn Python
-- 💞️ I’m looking to work on a basic AI related project soon.
+- 🌱 I’m learning Java and am starting to learn Go
+- 💞️ I am planning to work on a file-sharing based project soon.
 
   
 <!---
