@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hassanat.
-- 👀 I am interested in programming and web development, and am studying Computer Science at the University of Birmingham.
+- 👀 I am interested in programming and web development, and studied Computer Science at the University of Birmingham.
 - 🌱 I know Java, Python, JavaScript, Go and am learning Swift.
 
   
